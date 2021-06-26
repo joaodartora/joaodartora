@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📈 Stats:
 
-![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaodartora&count_private=true&layout=compact&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodartora&count_private=true&layout=compact&show_icons=true&langs_count=10&theme=synthwave)
+![Joao's github stats](https://github-readme-stats.vercel.app/api?username=joaodartora&count_private=true&layout=compact&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodartora&count_private=true&layout=compact&show_icons=true&langs_count=20&theme=synthwave)

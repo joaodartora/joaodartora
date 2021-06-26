@@ -4,7 +4,7 @@
 
 💻 Currently working as Backend Software Engineer at Sicredi.
 
-📚 I have great interest about software development and testing, software architecture, good practices and agile culture.
+📚 I have great interest about software development and testing, software architecture, good practices, devops and agile culture.
 
 ### 📈 Stats:
 

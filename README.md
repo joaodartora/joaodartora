@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ### 📈 Stats:
 
 ![General Stats](https://github-readme-stats.vercel.app/api?username=joaodartora&count_private=true&show_icons=true&theme=synthwave)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodartora&count_private=true&show_icons=true&langs_count=20&theme=synthwave)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodartora&count_private=true&layout=compact&show_icons=true&langs_count=20&theme=synthwave)

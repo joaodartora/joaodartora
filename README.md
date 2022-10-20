@@ -2,9 +2,9 @@
 
 - 📘 I'm a Brazilian Biomedical Informatics Student at UFCSPA.
 
-- 💻 Currently working as Backend Software Engineer at Sicredi.
+- 💻 Currently working as Backend Software Engineer at Lending Club.
 
-- 📚 I have great interest about software development and testing, software architecture, good practices, devops and agile culture.
+- 📚 I have great interest about software development and testing, software architecture, good practices, DevSecOps and agile culture.
 
 ### 📈 My Github Stats:
 
